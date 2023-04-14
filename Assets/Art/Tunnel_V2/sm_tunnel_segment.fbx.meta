@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ee45e86833820c4da4432c08d8091d0
+guid: a049c6b9e4b0b0b4d9a1f709dad5bdcd
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Red
-    second: {fileID: 2100000, guid: 5681c7ad909ca2247850c770789131ac, type: 2}
+      name: M_Tunnel_Segment
+    second: {fileID: 2100000, guid: 2c4efacd0b3015240958bd597dc00a5e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
